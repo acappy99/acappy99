@@ -5,7 +5,7 @@ Welcome to my GitHub
 - 💞️ I’m looking to collaborate on any financial or blockchain application
 - 📫 Reach me on twitter @AlexCappadona
 
-I have extensive experience within in Finance, including capital markets, valuation and financial analysis, and modeling. I am looking to collaborate on financial or blockchain application.
+I have extensive experience within in finance, including capital markets, valuation and financial analysis, and modeling. I want to use my background in finance and my experience with data analysis to collaborate on any financial or blockchain application.
 
 <!---
 acappy99/acappy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
